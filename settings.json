@@ -1,14 +1,14 @@
 {
-  "name": "AFKBOT",
+  "name": "AFK Bot",
   "bot-account": {
     "username": "botsin",
     "password": "",
-    "type": "offline"
+    "type": "Online"
   },
   "server": {
     "ip": "farfaversofans.aternos.me",
     "port": 41383,
-    "version": "",
+    "version": "1.21.11",
     "try-creative": true
   },
   "position": {
