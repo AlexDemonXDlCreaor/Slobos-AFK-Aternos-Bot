@@ -29,7 +29,7 @@
     "chat-messages": {
       "enabled": true,
       "repeat": true,
-      "repeat-delay": 1800,
+      "repeat-delay": 500,
       "messages": [
         ":O",
         ":p",
@@ -40,8 +40,8 @@
     },
     "chat-log": true,
     "auto-reconnect": true,
-    "auto-reconnect-delay": 20,
-    "max-reconnect-delay": 1200
+    "auto-reconnect-delay": 120,
+    "max-reconnect-delay": 200
   },
   "movement": {
     "enabled": true,
@@ -56,7 +56,7 @@
     },
     "random-jump": {
       "enabled": true,
-      "interval": 10000
+      "interval": 100
     }
   },
   "modules": {
